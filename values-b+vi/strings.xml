@@ -234,7 +234,7 @@
     <string name="settings_codec_auto">bộ giải mã mặc định cho nhà cung cấp</string>
     <string name="cfg_ign_last_codec">không nhớ bộ giải mã cuối được sử dụng để phát kênh</string>
     <string name="err_archive_is_shorter">Lưu trữ cho kênh này có tuổi thọ ngắn hơn trên nhà cung cấp của bạn</string>
-    <string name="cfg_section_backup">Sao lưu và khôi phịc</string>
+    <string name="cfg_section_backup">Sao lưu và khôi phục</string>
     <string name="btn_backup_info">Bản sao lưu được lưu trữ bởi một mã khóa. Hãy ghi nó lại ngay khi sao lưu xong. Không có gì đảm bảo thời gian sao lưu sẽ có sẵn trong bao lâu.</string>
     <string name="btn_backup_data">Sao lưu cấu hình hiện tại</string>
     <string name="btn_backup_load">Tải một bản sao lưu cấu hình đã thực hiện trước đó</string>
